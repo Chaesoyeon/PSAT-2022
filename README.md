@@ -7,20 +7,20 @@ SKKU Statistics Department Data Analysis Society PSAT-2022 Activity Log
 분석을 위한 전공 이론 및 분석 기법 팀별 스터디 진행 기간
 1. [딥러닝팀]1주차 클린업 PPT
 + 머신러닝(Machine Learning)
-   지도학습과 비지도학습(Supervised Learning / Unsupervised Learning)
-   강화학습(Reinforcement Learning)
-   딥러닝(Deep Learning)
+   + 지도학습과 비지도학습(Supervised Learning / Unsupervised Learning)
+   + 강화학습(Reinforcement Learning)
+   + 딥러닝(Deep Learning)
 + 퍼셉트론(Perceptron)
-   퍼셉트론이란?
-   다층 퍼셉트론(Multi-Layer Perceptron)
+   + 퍼셉트론이란?
+   + 다층 퍼셉트론(Multi-Layer Perceptron)
 + 신경망(Neural Network)
-   순전파(Feedforward Propagation)
-     활성화함수(Activation Function)
-     손실 함수(Loss Function)
-+   역전파(Back Propagation)
-     Optimizer
-     Local Minima와 Saddle Point 문제
-     기울기 소실 문제(Gradient Vanishing Problem)
+   + 순전파(Feedforward Propagation)
+     + 활성화함수(Activation Function)
+     + 손실 함수(Loss Function)
+   + 역전파(Back Propagation)
+     + Optimizer
+     + Local Minima와 Saddle Point 문제
+     + 기울기 소실 문제(Gradient Vanishing Problem)
 2. [딥러닝팀]2주차 클린업 PPT
 + CNN(Convolutional Neural Network)
    Convolutional Layer
