@@ -7,7 +7,7 @@ SKKU Statistics Department Data Analysis Society PSAT-2022 Activity Log
 분석을 위한 전공 이론 및 분석 기법 팀별 스터디 진행 기간
 1. [딥러닝팀]1주차 클린업 PPT
 > + 머신러닝(Machine Learning)
-   + 지도학습과 비지도학습(Supervised Learning / Unsupervised Learning)
+>   + 지도학습과 비지도학습(Supervised Learning / Unsupervised Learning)
    + 강화학습(Reinforcement Learning)
    + 딥러닝(Deep Learning)
 + 퍼셉트론(Perceptron)
